@@ -1,0 +1,1 @@
+Test Driven Development lessons of [The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice), implements unit tests with [jest](https://jestjs.io) and integration with [Babel](https://babeljs.io) for compatibility with ES2015+ modules.

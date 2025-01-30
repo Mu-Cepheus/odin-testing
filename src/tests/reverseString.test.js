@@ -1,4 +1,4 @@
-import reverseString from "./../scripts/reverstString";
+import reverseString from "./../scripts/reverseString.js";
 
 test("Actual function features", () => {
   expect(reverseString("bruhlovania")).toBe("ainavolhurb");
