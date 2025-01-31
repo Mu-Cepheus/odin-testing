@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "jest",
-    "watch": "jest --watch './src/testers/*'"
+    "watch": "jest --watch './src/tests/*'"
   },
   "author": "",
   "license": "ISC",
